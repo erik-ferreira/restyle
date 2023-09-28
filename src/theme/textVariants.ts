@@ -12,4 +12,14 @@ export const textVariants = {
     fontFamily: "Poppins_400Regular",
     fontSize: 18,
   },
+  button_primary: {
+    fontFamily: "Poppins_400Regular",
+    fontSize: 16,
+    color: "white",
+  },
+  button_secondary: {
+    fontFamily: "Poppins_400Regular",
+    fontSize: 16,
+    color: "black",
+  },
 }
